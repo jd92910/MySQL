@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "68162566132387e01e45b04f"
+  },
+  "stops": [
+    "Warszawa Wschodnia",
+    "Lublin Główny",
+    "Warszawa Wschodnia",
+    "Radom Główny",
+    "Stalowa Wola Miasto",
+    "Poznań Główny",
+    "Warszawa Główna",
+    "Zielona Góra Miasto",
+    "Kraków Główny",
+    "Gdańsk Południe",
+    "Rzeszów Główny",
+    "Łódź Fabryczna",
+    "Toruń Miasto"
+  ]
+}]

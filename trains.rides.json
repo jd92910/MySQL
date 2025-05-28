@@ -1,0 +1,333 @@
+[{
+  "_id": {
+    "$oid": "67f5a3e3303ae8394d82a5c1"
+  },
+  "idRaid": 24,
+  "raidDateTimeStart": "2025-04-02 23:00",
+  "raidDateTimeEnd": "2025-04-03 04:00",
+  "delay": "0:00",
+  "SeatsAvaliability": "dużo",
+  "CompanyName": "PolRegio",
+  "trainType": "pasażerski",
+  "ride": {
+    "startstop": "Warszawa Wschodnia",
+    "endstop": "Lublin Główny",
+    "stops": [
+      {
+        "arrivalTime": "23.00 2.04.2025",
+        "departureTime": "23.03 2.04.2025",
+        "stopNr": 1,
+        "cityName": "Lublin",
+        "stationName": "Lublin Główny",
+        "platformNr": 4,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "00.00 3.04.2025",
+        "departureTime": "00.03 3.04.2025",
+        "stopNr": 2,
+        "cityName": "Radom",
+        "stationName": "Radom Główny",
+        "platformNr": 2,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "02.00 3.04.2025",
+        "departureTime": "02.03 3.04.2025",
+        "stopNr": 3,
+        "cityName": "Poznań",
+        "stationName": "Poznań Główny",
+        "platformNr": 1,
+        "trackNr": 2
+      },
+      {
+        "arrivalTime": "04.00 3.04.2025",
+        "departureTime": "04.03 3.04.2025",
+        "stopNr": 3,
+        "cityName": "Zielona Góra",
+        "stationName": "Zielona Góra Miasto",
+        "platformNr": 1,
+        "trackNr": 2
+      }
+    ]
+  },
+  "carts": [
+    {
+      "idCart": 1,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 2,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 3,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    },
+    {
+      "idCart": 4,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    }
+  ],
+  "trainName": "kościuszko"
+},
+{
+  "_id": {
+    "$oid": "68114c2f9d1fc182e7338746"
+  },
+  "idRaid": 42,
+  "raidDateTimeStart": "2025-04-02 12:00",
+  "raidDateTimeEnd": "2025-04-03 19:00",
+  "delay": "0:00",
+  "SeatsAvaliability": "dużo",
+  "trainName": "jagiełło",
+  "CompanyName": "intercity",
+  "trainType": "pośpieszny",
+  "ride": {
+    "startstop": "Gdańsk Południe",
+    "endstop": "Kraków Główny",
+    "stops": [
+      {
+        "arrivalTime": "12.00 2.04.2025",
+        "departureTime": "12.03 2.04.2025",
+        "stopNr": 1,
+        "cityName": "Gdańsk",
+        "stationName": "Gdańsk Południe",
+        "platformNr": 4,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "16.00 2.04.2025",
+        "departureTime": "16.03 2.04.2025",
+        "stopNr": 2,
+        "cityName": "Warszawa",
+        "stationName": "Warszawa Główna",
+        "platformNr": 2,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "19.00 2.04.2025",
+        "departureTime": "19.03 2.04.2025",
+        "stopNr": 3,
+        "cityName": "Kraków",
+        "stationName": "Kraków Główny",
+        "platformNr": 1,
+        "trackNr": 2
+      }
+    ]
+  },
+  "carts": [
+    {
+      "idCart": 1,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 2,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 3,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    },
+    {
+      "idCart": 4,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ecdc84aa52e031504768ca"
+  },
+  "idRaid": 12,
+  "raidDateTimeStart": "2025-04-01 12:00",
+  "raidDateTimeEnd": "2025-04-01 18:00",
+  "delay": "0:00",
+  "SeatsAvaliability": "dużo",
+  "trainName": "komodor",
+  "CompanyName": "intercity",
+  "trainType": "pasażerski",
+  "status": "sprawny",
+  "ride": {
+    "startstop": "Warszawa Wschodnia",
+    "endstop": "Lublin Główny",
+    "stops": [
+      {
+        "arrivalTime": "12.00 1.04.2025",
+        "departureTime": "12.03 1.04.2025",
+        "stopNr": 1,
+        "cityName": "Warszawa",
+        "stationName": "Warszawa Wschodnia",
+        "platformNr": 4,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "13.00 1.04.2025",
+        "departureTime": "13.03 1.04.2025",
+        "stopNr": 2,
+        "cityName": "Radom",
+        "stationName": "Radom Główny",
+        "platformNr": 2,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "14.00 1.04.2025",
+        "departureTime": "14.03 1.04.2025",
+        "stopNr": 3,
+        "cityName": "Stalowa Wola",
+        "stationName": "Stalowa Wola Miasto",
+        "platformNr": 1,
+        "trackNr": 2
+      },
+      {
+        "arrivalTime": "18.00 1.04.2025",
+        "departureTime": "18.03 1.04.2025",
+        "stopNr": 3,
+        "cityName": "Lublin",
+        "stationName": "Lublin Główny",
+        "platformNr": 1,
+        "trackNr": 2
+      }
+    ]
+  },
+  "carts": [
+    {
+      "idCart": 1,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 2,
+      "cartType": "1klasa, bezprzedziałowy",
+      "seatsAmount": 60
+    },
+    {
+      "idCart": 3,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    },
+    {
+      "idCart": 4,
+      "cartType": "2klasa, bezprzedziałowy",
+      "seatsAmount": 90
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68114ac49d1fc182e7338745"
+  },
+  "idRaid": 32,
+  "raidDateTimeStart": "2025-04-02 23:00",
+  "raidDateTimeEnd": "2025-04-03 06:00",
+  "delay": "0:00",
+  "SeatsAvaliability": "brak",
+  "trainName": "a-24",
+  "CompanyName": "azoty",
+  "trainType": "towarowy",
+  "ride": {
+    "startstop": "Zielona Góra",
+    "endstop": "Rzeszów Główny",
+    "stops": [
+      {
+        "arrivalTime": "23.00 2.04.2025",
+        "departureTime": "23.03 2.04.2025",
+        "stopNr": 1,
+        "cityName": "Zielona Góra",
+        "stationName": "Zielona Góra",
+        "platformNr": 4,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "06.00 2.04.2025",
+        "departureTime": "06.03 2.04.2025",
+        "stopNr": 2,
+        "cityName": "Rzeszów",
+        "stationName": "Rzeszów Główny",
+        "platformNr": 2,
+        "trackNr": 53
+      }
+    ]
+  },
+  "carts": [
+    {
+      "idCart": 1,
+      "cartType": "duży, towarowy"
+    },
+    {
+      "idCart": 2,
+      "cartType": "duży, towarowy"
+    },
+    {
+      "idCart": 3,
+      "cartType": "średni, bezprzedziałowy"
+    },
+    {
+      "idCart": 4,
+      "cartType": "średni, bezprzedziałowy"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d20551fb5214ab2e008ed"
+  },
+  "idRaid": 51,
+  "raidDateTimeStart": "2025-04-02 23:00",
+  "raidDateTimeEnd": "2025-04-03 04:00",
+  "delay": "0:00",
+  "SeatsAvaliability": "brak",
+  "trainName": "a-12",
+  "CompanyName": "azoty",
+  "trainType": "towarowy",
+  "ride": {
+    "startstop": "Lublin Główny",
+    "endstop": "Zielona Góra Miasto",
+    "stops": [
+      {
+        "arrivalTime": "23.00 2.04.2025",
+        "departureTime": "23.03 2.04.2025",
+        "stopNr": 1,
+        "cityName": "Lublin",
+        "stationName": "Lublin Główny",
+        "platformNr": 4,
+        "trackNr": 53
+      },
+      {
+        "arrivalTime": "06.00 2.04.2025",
+        "departureTime": "06.03 2.04.2025",
+        "stopNr": 2,
+        "cityName": "Zielona Góra",
+        "stationName": "Zielona Góra Miasto",
+        "platformNr": 2,
+        "trackNr": 53
+      }
+    ]
+  },
+  "carts": [
+    {
+      "idCart": 1,
+      "cartType": "duży, towarowy"
+    },
+    {
+      "idCart": 2,
+      "cartType": "duży, towarowy"
+    },
+    {
+      "idCart": 3,
+      "cartType": "średni, bezprzedziałowy"
+    },
+    {
+      "idCart": 4,
+      "cartType": "średni, bezprzedziałowy"
+    }
+  ]
+}]
